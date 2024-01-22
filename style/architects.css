@@ -1,0 +1,8 @@
+/* Work sans font from google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Kalnia&family=Roboto:wght@300;700&family=Work+Sans:ital,wght@0,400;1,500;1,700&display=swap");
+
+* {
+  font-family: "Kalnia", serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
